@@ -6,9 +6,11 @@ O Hiring Coders é um programa de educação e seleção de pessoas desenvolvedo
 
 
 
-##  1. Modulo 4 e 5 JavaScript
+##  Modulo 4 e 5 JavaScript
 
 Ambos os módulos foram ministrados pela professora [Simara Conceição](https://github.com/simaraconceicao) , que abordou sobre JavaScript básico ao avançado, e nos introduziu ao Node.js.
+
+**JavaScript** é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma.
 
 - Javascript Basico
   - Classes
@@ -36,4 +38,20 @@ Projeto Final - Sistema de biblioteca
 ![](https://github.com/rockiir/Hiring_Coders/blob/main/javascript/Basico/img/rkO3fXKjXJ.gif)
 ![](https://github.com/rockiir/Hiring_Coders/blob/main/javascript/Basico/img/yEyl8Vq5Nw.gif)
 
+## TypeScript
+
+**TypeScript** é um superconjunto de [JavaScript](https://tecnoblog.net/406946/o-que-e-javascript-guia-para-iniciantes/), ou seja, um conjunto de ferramentas e formas mais eficientes de escrever código JavaScript, adicionando recursos que não estão presentes de maneira nativa na linguagem
+
+Inicialmente é necessária a instalação do TypeScript que pode ser feita apartir do Script via npm
+
+```
+npm install -g typescript
+//-g para instalação global
+```
+
+
+
+```
+npx tsc
+```
 
