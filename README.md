@@ -31,12 +31,12 @@ Ao final dos modulos desenvolvemos alguns projetos como:
 
 To do's List
 
-![](https://github.com/rockiir/Hiring_Coders/blob/main/javascript/Basico/img/WAXLYQIn5Y.gif)
+![](https://github.com/rockiir/Hiring_Coders/blob/main/img/WAXLYQIn5Y.gif)
 
 Projeto Final - Sistema de biblioteca
 
-![](https://github.com/rockiir/Hiring_Coders/blob/main/javascript/Basico/img/rkO3fXKjXJ.gif)
-![](https://github.com/rockiir/Hiring_Coders/blob/main/javascript/Basico/img/yEyl8Vq5Nw.gif)
+![](https://github.com/rockiir/Hiring_Coders/blob/main/img/rkO3fXKjXJ.gif)
+![](https://github.com/rockiir/Hiring_Coders/blob/main/img/yEyl8Vq5Nw.gif)
 
 ## TypeScript
 
