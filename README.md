@@ -6,7 +6,7 @@ O Hiring Coders é um programa de educação e seleção de pessoas desenvolvedo
 
 
 
-##  Modulo 4 e 5 JavaScript
+##  JavaScript
 
 Ambos os módulos foram ministrados pela professora [Simara Conceição](https://github.com/simaraconceicao) , que abordou sobre JavaScript básico ao avançado, e nos introduziu ao Node.js.
 
@@ -53,5 +53,32 @@ npm install -g typescript
 
 ```
 npx tsc
+```
+
+- TypeScript
+  - Bolean
+  - Number
+  - String
+  - Array
+  - Tuple
+  - Enum
+  - Any
+  - Void
+  - null e undefined
+  - object
+  - Never
+  - Union Types
+  - Typer assertion
+
+# React
+
+Instalando o React
+
+```
+npx create-react-app my-app
+
+cd my-app
+
+npm start
 ```
 
