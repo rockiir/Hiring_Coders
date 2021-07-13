@@ -1,0 +1,6 @@
+html, body {
+  
+  background-image: linear-gradient(to right top, #ff00ff, #d900fb, #b000f7, #8203f2, #4112eb);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ff930f", endColorstr="#fff95b", GradientType=1 );  width: 100vw;
+  height: 100vh;
+}
